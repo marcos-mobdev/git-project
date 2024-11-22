@@ -1,1 +1,2 @@
-added chat feature
+chat added
+chat bugfix
